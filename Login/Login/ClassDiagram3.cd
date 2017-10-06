@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Login.FormAutorization">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAEAACQACAAAAACBAiBCCAUAAAgCABQAAADAgAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.Form2">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAACAAAAAAAACAAAADAAggAAAAIAAQAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormComInf">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQyABCAAABAAAACAAAACAAgAAAAAASAgBAAAAAA=</HashCode>
+      <FileName>FormComInf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormComSoil">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAggBSACBCAAABAAgAGAGAACCAgAAGAAACAgRAIAQAA=</HashCode>
+      <FileName>FormComSoil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormComValue">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAABCAAAAAAAACAAAACEAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>FormComValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormMailSend">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EIEAgAAAASAAABAACECAAAQSCAAIAAACICAACQAAAAA=</HashCode>
+      <FileName>FormMailSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormMain">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>A4AAAAAAACEABAISAQCCQAACwHYoAEAAACgAAQBBIAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormPersonalInf">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QQQCAAAAACAgQgAAAACIAABWAACAIAAAQCAAEABBlAA=</HashCode>
+      <FileName>FormPersonalInf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormRegistration">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAICQACQAAEBCAIkBKEAQAIAAAAAAAAACAAAA=</HashCode>
+      <FileName>FormRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.FormSettings">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAACAAAACAAAIAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>FormSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.MailSMTP">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAAAAAAAAAAAAEAAAAAAEAACAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>MailSMTP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login.MailSMTPSend">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAMABAAAAAAAEAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>MailSMTPSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
